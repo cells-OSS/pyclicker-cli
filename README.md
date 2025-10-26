@@ -1,2 +1,7 @@
 # pyclicker-cli
-An auto-clicker script specifically designed for Minecraft, but can be used globally. Written in Python.
+A simple CLI clicker app designed to be used for automation.
+
+# PREREQUISITES
+[Python](https://www.python.org/)
+
+[pynput](https://pypi.org/project/pynput/)
