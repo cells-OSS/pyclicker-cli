@@ -54,6 +54,8 @@ welcomeMessage = """
 
 print(welcomeMessage)
 
+mode = int(input("Select mode:\n1. Left Click\n2. Right Click\nWhich option would you like to choose(1/2)?: "))
+
 delay = int(input("Type the delay you want in seconds: "))
 
 print(f"The clicker is set to be ran at {delay} seconds.")
