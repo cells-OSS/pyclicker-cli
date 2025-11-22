@@ -60,7 +60,7 @@ mode = int(input("Select mode:\n1. Left Click\n2. Right Click\nWhich option woul
 if mode == 1:
     on_press = on_press_left
 
-elif mode == 2:
+if mode == 2:
     on_press = on_press_right
 
 else:
